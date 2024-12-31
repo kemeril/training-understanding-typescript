@@ -1,0 +1,15 @@
+{
+  "name": "understanding-ts-01-10",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "lite-server"
+  },
+  "author": "kemeril",
+  "license": "ISC",
+  "description": "Understanding TypeScript / Section 1: Getting Started / 10. The curse Project Setup",
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
